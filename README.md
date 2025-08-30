@@ -20,7 +20,7 @@ Although a physical bicycle was not constructed, the control system was tested i
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ketan6789/Design-and-Development-of-a-Bicycle-Based-on-BLDC-Motor-Drive.git
+   git clone https://github.com/Mazin1921/BLDC-2-Wheeler-Drivetrain.git
    ```
 2. Open MATLAB and navigate to the project directory.
 3. Open the Simscape model:
